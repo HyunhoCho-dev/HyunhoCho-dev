@@ -1,59 +1,27 @@
-## Hi there 👋
+# Hyunho Cho
 
-I'm **Hyunho Cho**, a student majoring in Artificial Intelligence at **Daedeok Software Meister High School**.
+AI student at **Daedeok Software Meister High School**.
 
----
+I'm interested in how intelligence emerges through learning and interaction. My long-term goal is to build AI systems that learn from limited experience and generalize to unfamiliar situations.
 
-## 🧠 About Me
+### Focus
 
-I am passionate about building AI systems that can learn, reason, and improve autonomously.
-Currently, I am focused on **Deep Learning** and **Reinforcement Learning**, exploring how machines can learn efficiently with minimal data like humans.
+* **Deep learning** — understanding and building neural networks.
+* **Reinforcement learning** — learning through interaction and feedback.
+* **Autonomous agents** — connecting perception, decisions, and actions.
+* **Data-efficient learning** — learning more from fewer examples.
 
----
+### Currently exploring
 
-## 🚀 Interests
+Neural networks, policy optimization, efficient training methods, and AI system design.
 
-* Deep Learning
-* Reinforcement Learning
-* AI Agents & Autonomous Systems
-* Human-like Learning AI
+**Primary language:** Python
 
----
+### Connect
 
-## 🌱 Currently Learning
-
-* Neural Networks
-* Policy Optimization
-* Efficient Training Methods
-* AI System Design
+[LinkedIn](https://www.linkedin.com/in/hyunho-cho-788a393b5/) · [Email](mailto:chrishyun10@naver.com)
 
 ---
 
-## 🛠 Tech Stack
+*How much experience does a machine need to learn something new?*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Hyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunhoCho-dev\&show_icons=true)
-
----
-
-## 💡 Goal
-
-> Build AI that can learn and generalize from extremely small amounts of data, just like humans.
-
----
-
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/hyunho-cho-788a393b5/
-* 📫 Email: [chrishyun10@naver.com](mailto:chrishyun10@naver.com)
-
----
-
-## ⚡ Fun Fact
-
-I’m not just learning AI — I’m trying to rethink how AI should learn.
